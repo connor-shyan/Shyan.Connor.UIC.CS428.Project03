@@ -1,0 +1,12 @@
+newmtl Book_Cover
+Kd 1 0.9333334 0
+d 1
+
+newmtl Clock_Face
+Kd 1 1 1
+d 1
+
+newmtl TV_Frame
+Kd 0 0 0
+d 1
+
